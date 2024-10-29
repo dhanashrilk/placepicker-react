@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/placepicker-react/static/css/main.98250013.css",
+    "main.js": "/placepicker-react/static/js/main.a0f791fd.js",
+    "static/media/machu-picchu.jpg": "/placepicker-react/static/media/machu-picchu.058f4f4bbc811ed0618a.jpg",
+    "static/media/african-savanna.jpg": "/placepicker-react/static/media/african-savanna.d514b394296e93fc5ae0.jpg",
+    "static/media/japanese-temple.jpg": "/placepicker-react/static/media/japanese-temple.8710296965505fc4888e.jpg",
+    "static/media/venetian-canals.jpg": "/placepicker-react/static/media/venetian-canals.9dc886ed2b3b9856cdf7.jpg",
+    "static/media/grand-canyon.jpg": "/placepicker-react/static/media/grand-canyon.2165706651ed6cdba436.jpg",
+    "static/media/forest-waterfall.jpg": "/placepicker-react/static/media/forest-waterfall.ebfba5c28193ee5a0a54.jpg",
+    "static/media/amazon-river.avif": "/placepicker-react/static/media/amazon-river.4d384addff5a48dee0b5.avif",
+    "static/media/logo-earth.png": "/placepicker-react/static/media/logo-earth.acb06f0fe9f37463ce1b.png",
+    "static/media/parisian-streets.jpg": "/placepicker-react/static/media/parisian-streets.5ed45b117cc6ddc5bd24.jpg",
+    "static/media/great-barrier-reef.jpg": "/placepicker-react/static/media/great-barrier-reef.2d9021bc32797a8e2658.jpg",
+    "static/media/kerala-backwaters.avif": "/placepicker-react/static/media/kerala-backwaters.115013cdc50451b9ccd6.avif",
+    "static/media/caribbean-beach.jpg": "/placepicker-react/static/media/caribbean-beach.e1622b110678183b5126.jpg",
+    "index.html": "/placepicker-react/index.html",
+    "main.98250013.css.map": "/placepicker-react/static/css/main.98250013.css.map",
+    "main.a0f791fd.js.map": "/placepicker-react/static/js/main.a0f791fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98250013.css",
+    "static/js/main.a0f791fd.js"
+  ]
+}
